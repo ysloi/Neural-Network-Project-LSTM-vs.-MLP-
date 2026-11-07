@@ -1,8 +1,6 @@
 
 # Neural Network Project: LSTM vs. MLP for European Call Option Pricing
 
-**Group 2 – Statistics UG Practitioners Challenge 2026 (LSE)**
-
 Jasmine Charize Carpiz · Alyssa Siew Ching Yi · Bhakti Soni · Tiffany Vooi · Yu See Loi
 
 ---
